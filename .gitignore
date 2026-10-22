@@ -1,0 +1,6 @@
+# Datos locales de cada equipo
+logs/
+Update-All.config.json
+
+# Paquete para compartir (se publica como Release)
+*.zip
