@@ -26,6 +26,12 @@ La primera vez, el script:
 2. Pide permisos de **administrador** (un único aviso de Windows).
 3. Si faltan los módulos **PwshSpectreConsole** y **Microsoft.WinGet.Client**, te pregunta si quieres instalarlos (solo para tu usuario).
 
+## Navegación
+
+- Muévete con las flechas y elige con **Intro**. Todos los menús tienen una opción **← Volver**.
+- Antes de instalar verás el menú *Elige qué instalar*: desde ahí puedes revisar las listas de programas y de Windows Update, activar o desactivar la Store, empezar o volver al menú principal sin instalar nada.
+- En las listas con casillas, **Espacio** marca o desmarca e **Intro** confirma. Si no cambias nada, la selección se queda como estaba.
+
 ## Configuración
 
 Se guarda en `Update-All.config.json`, junto al script, y se edita desde el menú *Configuración*:
